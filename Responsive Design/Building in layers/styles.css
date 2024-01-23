@@ -1,0 +1,37 @@
+/* *{
+    border:1px dotted red; 
+    outline: 1px dotted red;
+} */
+.container {
+  width: 780px;
+  min-height: 500px;
+}
+.header {
+  background-color: palegreen;
+  min-height: 50px;
+}
+.nav {
+  width: 200px;
+  background-color: lightblue;
+  display: inline-block;
+  height: 300px;
+}
+.main {
+  width: 576px;
+  min-height: 300px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: red;
+}
+.box {
+  width: 230px;
+  min-height: 50px;
+  display: inline-block;
+  margin: 25px;
+  background-color: purple;
+}
+.footer {
+  background-color: lightcoral;
+  padding: 5px;
+  min-height: 50px;
+}

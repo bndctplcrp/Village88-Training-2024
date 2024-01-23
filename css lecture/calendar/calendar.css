@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 560px;
+    height: 309px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 10px auto;
+    /* padding: 20px; */
+}
+#border{
+    height: 264px;
+    width: 520px;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 1px solid white;
+}
+#top_part{
+    height: 71px;
+    width: 520px;
+}
+.top{
+    display: inline;
+}
+#june{
+    margin-right: 113px;
+}
+#month{
+    height: 56px;
+    font-size: 18px;
+    font-family: 'Brosqua Round Bold', sans-serif;
+    font-weight: bolder;
+    display: inline-block;
+    text-align: center;
+    line-height: 56px;
+}
+#august{
+    margin-left: 113px;
+}
+#month{
+    text-align: center;
+    /* font-size: 16px; */
+}
+#week{
+    display: block;
+}
+.week_day {
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+    font-weight: bold;
+}
+.week_day1{
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+#sunday1, #monday1, #tuesday1, #wednesday1{
+    background-color: #E7E6E6;
+    color: #E7E6E6;
+}
+.week_day2{
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+.week_day3{
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+.week_day4{
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+.week_day5{
+    width: 65px;
+    height: 29px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+#week, #week1, #week2, #week3, #week4, #week5{
+    margin-bottom: 2px;
+}
+#saturday, #saturday1, #saturday2, #saturday3, #saturday4, #saturday5{
+    background-color: #A9D08E;
+}
+#sunday, #sunday2, #sunday3, #sunday4, #sunday5{
+    background-color: #5B9BD5;
+}
+
+

@@ -1,0 +1,183 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+@media only screen and (min-width: 400px) {
+    #wrapper {
+        margin: 0px;
+        background-color: #FFD9B7;
+        width: 100%;
+        height: 800px;
+    }
+    #logo, #navigation {
+        display: block;
+        width: 1%;
+    }
+    #logo {
+        min-height: 100px;
+        background-color: #B97A57;
+        margin-right: 0;
+        width: 100%;
+    }
+    #navigation {
+        min-height: 100px;
+        background-color: #FF7F27;
+        width: 100%;
+    }
+    #main_content, #about {
+        display: block;
+        width: 100%;
+    } 
+    #main_content, #about{
+        display: block;
+    }
+    #main_content{
+        height: 260px;
+        width: calc(100% - 0px);
+        background-color: #880015;
+        margin: 0px 0px 0px 0px;
+    }
+    #about{
+        min-height: 200px;
+        width: calc(100% - 60px);
+        background-color: #FFAEC9;
+        margin: 30px 0px 0px 30px;
+    }
+    #advertisement, #about{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sponsors, #sponsor1, #sponsor2 {
+        display: block;
+    }
+    .sponsors {
+        min-height: 67px;
+        background-color: #FFFF88;
+        margin: 20px 0px 0px 0px;
+    }
+    #sponsor1, #sponsor2 {
+        margin: 20px 0px 0px 0px;
+    }
+}
+
+@media only screen and (min-width: 481px ) {
+    #wrapper{
+        margin: 0px;
+        background-color: #FFD9B7;
+        width: 977px;
+        height: 700px;
+    }
+    #logo, #navigation{
+        display: inline-block;
+        vertical-align: top;
+    }
+    #logo{
+        min-height: 130px;
+        width: 260px;
+        background-color: #B97A57;
+        margin-right: 19px;
+    } 
+    #navigation{
+        min-height: 130px;
+        width: calc(100% - 535px);
+        background-color: #FF7F27;
+    }
+    #main_content, #about{
+        display: block;
+    }
+    #main_content{
+        height: 330px;
+        width: calc(100% - 250px);
+        background-color: #880015;
+        margin: 25px 0px 0px 0px;
+    }
+    #about{
+        min-height: 250px;
+        width: calc(100% - 100px);
+        background-color: #FFAEC9;
+        margin: 40px 0px 0px 45px;
+    }
+    #advertisement, #about{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sponsors, #sponsor1{
+        display: block;
+    }
+    #sponsor1, #sponsor2{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sponsors{
+        min-height: 67px;
+        width: 350px;
+        background-color: #FFFF88;
+        margin: 20px 0px 0px 0px;
+    }
+    #sponsor1{
+        margin: 20px 10px 0px 0px;
+    }
+    
+}
+@media only screen and (min-width: 1024px) {
+    #wrapper{
+        width: 977px;
+        height: 620px;
+        background-color: #FFD9B7;
+        margin: 0px;
+    }
+    #logo, #navigation{
+        display: inline-block;
+        vertical-align: top;
+    }
+    #logo{
+        min-height: 130px;
+        width: 260px;
+        background-color: #B97A57;
+        margin: 25px 0px 0px 19px;
+    }
+    #navigation{
+        min-height: 130px;
+        width: 655px;
+        background-color: #FF7F27;
+        margin: 25px 0px 0px 19px;
+    }
+    
+    #main_content{
+        min-height: 330px;
+        width: 940px;
+        background-color: #880015;
+        margin: 25px 0px 0px 19px;
+    }
+    #about{
+        min-height: 250px;
+        width: 650px;
+        background-color: #FFAEC9;
+        margin: 40px 0px 0px 45px;
+    }
+    #advertisement{
+        min-height: 200px;
+        width: 155px;
+        background-color: #C8BFE7;
+        margin: 40px 0px 0px 45px;
+    }
+    #advertisement, #about{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sponsor, #sponsor1{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sponsors{
+        min-height: 67px;
+        width: 310px;
+        background-color: #FFFF88;
+        display: inline-block;
+        vertical-align: top;
+        margin: 20px 0px 0px 0px;
+    }
+    #sponsor1{
+        margin: 20px 0px 0px 19px;
+    }
+} 

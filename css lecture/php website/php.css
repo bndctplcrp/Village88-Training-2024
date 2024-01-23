@@ -1,0 +1,210 @@
+.container{
+    width: 970px;
+    height: 520.12px;
+    border: 1px solid black;
+}
+    header{
+        background-color: #8892BF;
+        width: 970px;
+        height: 32px;
+        border-bottom: 5px solid #4F5B93;
+        padding-bottom: 4px;
+    }
+    .logo, .navigation, .searchBox{
+        display: inline-block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+        .nav{
+            font-weight: bold;
+            margin-left: 50px;
+            margin-bottom: 80px;
+            }
+            .logo{
+                height: 15px;
+                margin-top: 1px;
+                padding: 0;
+                vertical-align: middle;
+            }
+            .navigation{
+                width: 260px;
+                height: 32px;
+                list-style: none;
+                margin-left: 0px;
+                margin-bottom: ;
+                padding-left: 12px; 
+            }
+            .list{
+                font-size: 10px;
+                display: inline-block;
+                padding-right: 6px;
+                padding-left: 6px;
+                color: white;
+                font-weight: lighter;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            #highlight{
+                background-color: #4F5B93;
+                /* height: 20px;
+                width: 40px; */
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+            .searchBox{
+                width: 270px;
+                margin-left: 200px;
+                background-color: white;
+                text-align: left;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: 900;
+                font-size: 12px;
+                color: rgb(192, 185, 185);
+            }
+    main{
+        height: 450px;
+        width: 970px;
+        background-color: #313131;
+    }
+        .content{
+            height: 32px;
+            width: 960px;
+        }
+            .content, .content1{
+                margin-left: 20px;
+            }
+            p{
+                margin-left: 30px;
+            }
+            .pageContent{
+                margin-left: 530px;
+            }
+            p, .pageContent{
+                
+                display: inline-block;
+                font-size: 10px;
+                color: #F2F2F2;
+                }
+        .content1{
+            width: 668px;
+            height: 400px;
+            background-color: white;
+            font-size: 15px;
+            margin-left: 40px;
+            margin-right: 15px;
+        }
+            .heading{
+                padding-top: 20px;
+            }
+            .heading,.dropdown{
+                font-size: 12px;
+                text-align: right;
+            }
+            .request{
+                font-size: 11px;
+                text-decoration: none;
+                margin-left: 15px;
+                margin-right: 15px;
+            }
+            .dropdown, .request, h1, h2, h3, .pageContent1, .pageContent2{
+                margin-left: 15px;
+                margin-right: 15px;
+            }
+            h1{
+                font-size: 20px; 
+            }
+            h2{
+                font-size: 18px;
+            }
+            h1, h2{
+                padding-bottom: 4px;
+                border-bottom: 1px dotted black;
+            }
+            .tableOfContent, .pageContent1, .pageContent3{
+                font-size: 12px;
+            }
+            .pageContent1{
+                color: white;
+            }
+            .pageContent3{
+                color: black;
+            }
+            h3{
+                padding-bottom: 8px;
+                color: #A03862;
+                margin-bottom: 8px;
+                font-size: 12;
+                margin-left: 0px;
+            }
+            .pageContent3, h3{
+                display: inline-block;
+            }
+            .addButton{
+                margin-left: 280px;
+                height: 10px;
+            }
+            .addbuttonLink{
+                font-size: 10px;
+            }
+            .pageContent3{
+                color: black;
+                margin-top: 0;
+                margin-left: 0;
+                padding: 0;
+            }
+            .buttonSection{
+                border-bottom: 1px dotted black;
+                height: 50px;
+                width: 600px;
+                margin-left: 30px;
+                padding-bottom: 0;
+                margin-bottom: 0;
+                vertical-align: top;
+            }
+
+        .content2, .content1{
+            display: inline-block;
+            vertical-align: top;
+        }
+        .content2{
+            height: 500px;
+            width: 190px;
+        }
+            .content2header{
+                color: white;
+                font-size: 15px;
+                padding-bottom: 8px;
+                margin-left: 0;
+                padding: 0;
+            }
+            .pageContentTitle{
+                font-size: 12px;
+                margin: 0;
+                padding-left: 10px;
+                padding-right: 20px;
+            }
+            #donePage{
+                font-weight: bolder;
+                color: #AE508D;
+            }
+            .line{
+                border-bottom: 1px dotted white;
+            }
+            .line1{
+                border-bottom: 1px dotted #AE508D;
+            }
+        footer{
+            background-color: #313131;
+            width: 971px;
+        }
+        footer, main{
+            display: inline-block;
+        }
+        #foot{
+            padding-left: 60px;
+        }
+        
+
+
+
+
+

@@ -1,0 +1,227 @@
+.container {
+    height: 1295px;
+    width: 2140px;
+    background-color: #3F3727;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    height: 288px;
+    width: 2048px;
+    margin-bottom: 65px;
+}
+nav {
+    height: 131px;
+    width: 2048px;
+}
+.nav-bar {
+    height: 131px;
+    margin: 0px 0px 0px 108px;
+    padding: 0px;
+}
+    .nav-bar li{
+        display: inline-block;
+        color: #FFFFFF;
+        padding: 29px;
+        margin-right: 2px;  
+        background-color: #534C3E;
+        font-size: 35px;  
+    }
+        #news{
+            margin: 0px 1010px 0px 0px;
+        }
+.heading-section {
+    height: 166px;
+    color: white;
+    font-size: 55px;
+}
+    .heading-bar {
+        height: 154px;
+        width: 1828px;
+        margin: 0px 0px 0px 108px;
+        background-color: #C75000;
+    }
+    .heading1, .heading2, .heading3 {
+        display: inline-block;
+        padding: 0px;
+        margin-top: 40px;
+    }
+
+    .heading1 {
+        margin: 0px 20px 0px 420px;
+    }
+    .heading2 {
+        padding: 0px 339px 0px 339px;
+        border-bottom: 1px solid #FFFFFF;
+    }
+main, header {
+    display: block;
+}
+main {
+    height: 943px;
+    width: 2048px;
+}
+    .main-section, .hashtag-sign {
+        display: inline-block;
+        vertical-align: top;
+        margin: 0px;
+        padding: 0px;
+    }
+    .hashtag-sign {
+        height: 50px;
+        width: 50px;
+        margin: 36px 0px 0px 45px;
+        background-color: #C75000;
+        color: white;
+        font-size: 40px;
+        text-align: center;
+        position: relative;
+        left: 5px;
+    }
+    .main-section {
+        height: 943px;
+        width: 1890px;
+        background-color: #F2E8D5;
+    }
+    .primary-section {
+        height: 421px;
+        width: 1828px;
+        margin: 0px;
+        padding: 0px;
+    }
+        .content-paragraph {
+            height: 333px;
+            width: 750px;
+            margin: 42px 0px 0px 38px;
+            padding: 0px;
+        }
+        .description-heading {
+            font-size: 46px;
+            margin: 0px 0px 20px 0px;
+            padding: 0px;
+        }
+        .description-text {
+            font-size: 30px;
+            margin: 0px;
+            padding: 0px;
+            line-height: 1.4;
+        }
+    .specification-section {
+        height: 522px;
+        width: 1828px;
+        margin: 0px;
+        padding: 0px;
+    }
+        .tech-content {
+            height: 458px;
+            width: 1810px;
+            margin: 0px 0px 0px 38px;
+            padding: 0px;
+        }
+            .browser-name {
+                margin: 0px;
+                padding: 0px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            .technology {
+                height: 459px;
+                width: 152px;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .details {
+                height: 60px;
+                width: 148px;
+                margin: 5px;
+                padding: 0px;
+                list-style: none;
+                font-size: 30px;
+                text-align: center;
+                line-height: 60px;
+                color: white;
+            }
+            .details-alone {
+                height: 60px;
+                width: 148px;
+                margin: 5px;
+                padding: 0px;
+                list-style: none;
+                font-size: 30px;
+                text-align: center;
+                line-height: 20px;
+                color: white;   
+            }
+            .details-double {
+                height: 60px;
+                width: 148px;
+                margin: 5px;
+                padding: 0px;
+                list-style: none;
+                font-size: 30px;
+                text-align: center;
+                line-height: 0px;
+                color: white;
+            }
+            #tech-box1-ie, #tech-box1-edge, #tech-box1-firefox, #tech-box1-chrome, #tech-box1-safari, #tech-box1-opera, #tech-box2-chrome-android, #tech-box2-ios, #tech-box2-opera-mini, #tech-box2-android-browser, #tech-box2-opera-mobile{
+                width: 148px;
+                margin-left: 5px ;
+                padding: 0px;
+                color: black;
+                font-size: 25px;
+                border-bottom: 10px solid black;
+            }
+            #tech-box1-ie, #tech-box1-edge, #tech-box1-firefox, #tech-box1-chrome, #tech-box1-safari, #tech-box1-opera, #tech-box2-chrome-android  {
+                height: 78px;
+            }
+            #tech-box2,#tech-box2-ios, #tech-box2-opera-mini, #tech-box2-android-browser, #tech-box2-opera-mobile {
+                height: 80px;
+            }
+            
+            #tech-name1-ie, #tech-name1-edge, #tech-name1-firefox, #tech-name1-chrome, #tech-name1-safari, #tech-name1-opera, #tech-box2-chrome-android, #tech-box2-ios, #tech-box2-opera-mini, #tech-box2-android-browser, #tech-box2-opera-mobile {
+                margin: 0px;
+                padding: 0px;
+                color: black;
+                font-size: 30px;
+            }
+            #tech-name1-ie, #tech-name1-edge, #tech-name1-firefox, #tech-name1-chrome, #tech-name1-safari, #tech-name1-opera {
+                font-size: 30px;
+            }
+            #tech-box2-chrome-android, #tech-box2-ios, #tech-box2-opera-mini, #tech-box2-android-browser, #tech-box2-opera-mobile {
+                line-height: 1.1;
+            }
+            #tech-name3-chrome-android {
+                line-height: .8;
+            }
+            #no3, #no11, #no16, #no21, #no26, #no31, #no39, #no42, #no48 {
+                background-color: #800000;
+            }
+            #no4, #no6, #no12, #no17, #no22, #no27, #no32, #no43  {
+                background-color: #936F14;
+            }
+            #no7, #no8, #no9, #no13, #no14, #no15, #no18, #no19, #no20, #no23, #no24, #no25, #no28, #no29, #no33, #no34, #no44,#no49, #no54 {
+                background-color: #2A8436;
+            }
+            .point-first {
+                height: 18px;
+                width: 12px;
+                color: #070707;
+                background-color: white;
+                font-size: 15px;
+                position: relative;
+                line-height: 20px;
+                left:2px;
+                top: 2px;
+            }
+            .point-second {
+                height: 18px;
+                width: 12px;
+                color: #070707;
+                background-color: white;
+                font-size: 15px;
+                position: relative;
+                line-height: 20px;
+                left: 14px;
+                bottom: 16px;
+            }     
+

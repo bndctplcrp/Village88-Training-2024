@@ -1,0 +1,190 @@
+/* *{
+    border: 1px solid red;
+} */
+.container {
+    height: 940px;
+    width: 1239px;
+    background-color: #1E405C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    height: 105px;
+    width: 1239px;
+    color: #FFFFFF;
+}
+header, nav, main, footer {
+    display: block;
+}
+    .logo, .donate-button, .search-section, .search-bar, .go-button, .button {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .logo {
+        height: 78px;
+        width: 286px;
+        margin: 32px 300px 0 32px;
+    }
+    .donate-button {
+        height: 30px;
+        width: 72px;
+        background-color: #FFDC6A;
+        color: #000000;
+        margin: 53px 8px 41px 0px;
+    }
+        .text1 {
+            margin: 5px;
+        }
+    .search-section {
+        height: 68px;
+        width: 450px;
+        background-color: #1E2933;
+        margin: 35px 35px 0px 0px;
+    }
+    .search-bar {
+        height: 37px;
+        width: 224px;
+        background-color: #FFFFFF;
+        margin: 16px 11px 19px 16px;
+    }
+    .go-button {
+        height: 40px;
+        width: 46px;
+        background-color: #2F6592;
+        margin: 12px 12px 19px 0px;
+    }
+        .text2 {
+            margin: 10px;
+        }
+    .button {
+        text-align: center;
+        border-left: 3px solid rgb(31, 29, 29);
+    }
+        .text3 {
+            margin: 27px;
+        }    
+nav {
+    height: 54px;
+    width: 1159px;
+    font-size: 15px;
+    }
+    .nav-bar {
+        text-decoration: none;
+        border: 1px solid #1F4462;
+        padding-left: 151px;
+        margin-left: 32px;
+        background-color: #3877AC;
+    }
+    .nav-item {
+        text-decoration: none;
+        display: inline-block;
+        padding: 18px 22px 18px 22px;
+        border-right: 1px solid #365d80;
+        background-color: #3877AC;
+    }
+    #about-button {
+        background-color: #2A5A82;
+    }
+#about, figure {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+main {
+    height: 280px;
+    width: 1239px;
+    margin: 114px 0px 0px 0px;
+}
+   #about {
+        height: 140px;
+        width: 360px;
+        margin: 0px 0px 0px 149px;
+   }
+   .content1, .content2 {
+        font-size: 22px;
+        color: #FFD343;
+        font-weight: bolder;
+        line-height: 35px;
+   }
+   .content3 {
+    font-size: 15px;
+    color: white;
+    line-height: 20px;
+   }
+    figure{
+        height: 345px;
+        width: 563px;
+    }
+        .python-box {
+            position: absolute;
+            top: 201px;
+        }
+#articles, main {
+    display: block;
+}
+#articles {
+    height: 300px;
+    width: 1239px;
+    background-color: white;
+    text-decoration: none;
+    padding-top: 12px;
+}
+    .technology-section, .latest-news {
+        display: inline-block;
+        width: 580px;
+        border-top: 3px solid #75A8D3;
+    }
+    .technology-section {
+        margin-left: 10px;
+    }
+    .latest-news {
+        margin-left: 30px;
+    }
+    .titlename, .update {
+        font-size: 15px;
+        border-bottom: 1px solid #CACCCE;
+        margin-bottom: 10px;
+        padding-bottom: 5px;
+    }
+    .text5 {
+        font-size: 20px;
+    }
+    .date-section, .title-section {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .text5, .date-section {
+        margin-left: 20px;
+    }
+    .title, .date {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .date-section {
+        margin-right: 20px;
+    }
+footer {
+    margin-bottom: 10px;
+    color: white;
+    }
+    .footer-section {
+        list-style: none;
+        margin-left: 250px;
+    }
+    .foot-content {
+        display: inline-block;
+        margin-left: 20px;
+    }
+    .copyright {
+        font-size: 10px;
+        margin-left: 420px;
+    }
+
+
+
+
+
+
+
+    

@@ -1,0 +1,231 @@
+.container{
+    height: 1146px;
+    width: 739px;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.header, .heading-section, .main-section, .download-section{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 345px;
+    width: 739px;
+    margin-bottom: 0px;
+}
+    nav{
+        height: 50px;
+        width: 739px;
+        font-size: 40px;
+    }
+        .nav-bar {
+            height: 34px;
+            width: 640;
+            margin: 0px 0px 0px 33px;
+            padding: 0px;
+        } 
+            .nav-bar li {
+                display: inline-block;
+                font-size: 40px;
+                font-size: 9px;
+                margin: 8px 0px 0px 0px;
+                vertical-align: top;                   
+                }
+                .logo-section {
+                    text-align:center;
+                    font-size: 10px;
+                    font-weight: bolder;
+                }
+                .logo, .logo-text {
+                    display: inline-block;
+                    vertical-align: top;
+                }
+                .logo {
+                    height: 15px;
+                    width: 15px;
+                    margin: 0px 5px 0px 0px;
+                }
+                .logo-text {
+                    font-size: 10px;
+                    font-weight: bolder;
+                    color: #E21B70;
+                    line-height: 10px;
+                }
+                #login {
+                    margin: 0px 10px 0px 436px;
+                    font-size: 6px;
+                }
+.heading-section {
+    height: 314px;
+    width: 739px;
+}
+    .motto-section, #panda {
+        display: inline-block;
+        vertical-align: top;
+        padding: 0px;
+    }
+    .motto-section {
+        height: 314px;
+        width: 415px;
+        margin: 0px 0px 0px 0px;
+    }
+    .motto {
+        font-size: 18px;
+        margin: 102px 0px 0px 34px;
+        
+    }
+    #panda {
+        height: 275px;
+        width: 309px;
+        padding: 0px;
+        margin: 39px 0px 0px 4px;
+    }
+main {
+    height: 805px;
+    width: 739px;
+    margin: 0px;
+    padding: 0px;
+}      
+    .main-section {
+        height: 353px;
+        width: 739px;
+        margin: 0px;
+        padding: 0px;
+    }
+        .main-text {
+            height: 67px;
+            width: 739px;
+            margin: 0px 0px 0px 0px;
+            padding: 0px 0px 0px 0px;
+        }
+        .main-heading {
+            font-size: 15px;
+            line-height: 70px;
+            margin: 20px 0px 0px 32px;
+            padding: 0px;
+            width: 300px;
+        }
+        .place-section {
+            height: 273px;
+            width: 739px;
+            padding: 0px;
+        }
+            .place-image {
+                display: inline-block;
+                vertical-align: top;
+            }
+                .dimension-image {
+                    height: 131px;
+                    width: 161px;
+                }
+    .download-section {
+        height: 322px;
+        width: 739px;
+    }
+        .download-text {
+            margin: 83px 0px 0px 32px;
+            padding: 0px 0px 0px 0px;
+        }
+        .download-heading {
+            font-size: 15px;
+            padding: 0px;
+        }
+        .content-section {
+            background-color: #E21B70;
+            height: 177px;
+            width: 670px;
+            margin: 0px 0px 0px 32px;
+        }
+        .download-instruction {
+            font-size: 7px;
+            margin: 0px 0px 0px 0px;
+            padding: 0px;
+        }
+        .download-box {
+            height: 123px;
+            width: 250px;
+            margin: 0px 0px 0px 19px;
+        }
+    .content-section {
+        color: #FFFFFF;
+    }
+            .qr-code, .download-instruction{
+                display: inline-block;
+                vertical-align: top;
+            }
+            .qr-code {
+                height: 35px;
+                width: 35px;
+                margin: 0px 0px 0px 0px;
+                padding: 5px;
+                border: 2px solid #FFFFFF;
+            }
+            .download-instruction {
+                height: 52px;
+                width: 182px;
+                margin: 0px 0px 0px 0px;
+                padding: 0px;
+            }
+            h4 {
+                font-size: 13px;
+                margin: 0px 0px 0px 0px;
+                padding: 0px;
+            }
+            .store {
+                height: 29;
+                width: 226px;
+            }
+            .store-link {
+                height: 21px;
+                width: 62px;
+                margin: 0px 0px 0px 0px;
+                padding: 0px;
+            }
+            .phone {
+                height: 281px;
+                width: 325px;
+                margin: 0px 0px 0px 0px;
+                padding: 0px;
+                Position: relative;
+                left: 330px;
+                bottom: 165px;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
